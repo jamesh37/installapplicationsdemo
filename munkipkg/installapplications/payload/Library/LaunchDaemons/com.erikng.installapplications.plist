@@ -11,7 +11,9 @@
 		<string>--jsonurl</string>
 		<string>https://raw.githubusercontent.com/jamesh37/installapplicationsdemo/master/installapplications/demo.json</string>
 		<string>--depnotify</string>
-		<string>Command: WindowTitle: InstallApplicationsDemo</string>
+		<string>Command: WindowTitle: "Induction Healthcare Setup"</string>
+		<string>Command: MainTitle: Something about how amazing the DEP process you've created is.</string>
+		<string>Command: MainText: Welcome to your new Induction Healthcare MacBook machine. We've got a few more steps to get your machine ready for first use. Hang tight and watch the screen.</string>
 		<string>Command: Image: /Applications/Launchpad.app/Contents/Resources/Launchpad.icns</string>
 		<string>Status: Configuring Machine...</string>
 		<string>DEPNotifyPath: /Applications/Utilities/DEPNotify.app</string>
