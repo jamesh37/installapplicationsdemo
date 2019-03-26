@@ -68,6 +68,13 @@
       "url": "https://raw.githubusercontent.com/jamesh37/installapplicationsdemo/master/installapplications/scripts/user/dockutil.py"
     },
     {
+      "file": "/Library/Application Support/installapplications/jumpcloud.sh",
+      "hash": "e9ac1909a8fb051db7275ad0f7c316f214b09da88e1cb250b59ad5bb42f3410f",
+      "name": "JumpCloud",
+      "type": "userscript",
+      "url": "https://raw.githubusercontent.com/jamesh37/installapplicationsdemo/master/installapplications/scripts/user/jumpcloud.sh"
+    },
+    {
       "file": "/Library/Application Support/installapplications/depnotify_end.py",
       "hash": "8654428ada3b861e07ef46bbb160dc06be2ea62b3d961faccb6a8fe7539f6a65",
       "name": "DEPNotify End",
