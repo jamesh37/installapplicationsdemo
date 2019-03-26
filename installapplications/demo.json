@@ -73,6 +73,13 @@
       "name": "DEPNotify End",
       "type": "rootscript",
       "url": "https://raw.githubusercontent.com/jamesh37/installapplicationsdemo/master/installapplications/scripts/root/depnotify_end.py"
+    },
+    {
+      "file": "/Library/Application Support/installapplications/jumpcloud.sh",
+      "hash": "<>",
+      "name": "JumpCloud",
+      "type": "userscript",
+      "url": "https://raw.githubusercontent.com/jamesh37/installapplicationsdemo/master/installapplications/scripts/user/jumpcloud.sh"
     }
   ]
 }
