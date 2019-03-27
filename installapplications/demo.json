@@ -2,6 +2,13 @@
   "preflight" : [],
   "setupassistant": [
     {
+      "file": "/Library/Application Support/installapplications/Jumpcloud.pkg",
+      "hash": "97a3f3e4060590fa485bc3559213831f214f4a3891188912e48698a702e4aeba",
+      "name": "JumpCloud Installer",
+      "type": "package",
+      "url": "https://raw.githubusercontent.com/jamesh37/installapplicationsdemo/master/installapplications/pkgs/Jumpcloud.pkg"
+    },
+    {
       "file": "/Library/Application Support/installapplications/munkitools_launchd-3.0.3265.pkg",
       "hash": "66441eaba5aa717fd81d1a84ddfb309da90cff6bc5904dc0e94c1f6e216c2a89",
       "name": "Munki LaunchD",
