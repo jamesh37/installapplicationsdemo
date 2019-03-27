@@ -75,13 +75,6 @@
       "url": "https://raw.githubusercontent.com/jamesh37/installapplicationsdemo/master/installapplications/scripts/user/dockutil.py"
     },
     {
-      "file": "/Library/Application Support/installapplications/jumpcloud.pkg",
-      "hash": "22cb064f84337f8469c1b730f05769c92f84017dcf4af0507f144486e549ccc6",
-      "name": "JumpCloud",
-      "type": "rootscript",
-      "url": "https://raw.githubusercontent.com/jamesh37/installapplicationsdemo/master/installapplications/pkgs/JCInstall.pkg"
-    },
-    {
       "file": "/Library/Application Support/installapplications/depnotify_end.py",
       "hash": "8654428ada3b861e07ef46bbb160dc06be2ea62b3d961faccb6a8fe7539f6a65",
       "name": "DEPNotify End",
