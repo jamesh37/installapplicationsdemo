@@ -205,6 +205,41 @@
 		<false/>
 		<key>catalogs</key>
 		<array>
+			<string>testing</string>
+		</array>
+		<key>category</key>
+		<string></string>
+		<key>description</key>
+		<string></string>
+		<key>developer</key>
+		<string></string>
+		<key>display_name</key>
+		<string>JumpCloud</string>
+		<key>installer_item_hash</key>
+		<string>97a3f3e4060590fa485bc3559213831f214f4a3891188912e48698a702e4aeba</string>
+		<key>installer_item_location</key>
+		<string>Jumpcloud-0.0.pkg</string>
+		<key>installer_item_size</key>
+		<integer>17</integer>
+		<key>minimum_os_version</key>
+		<string>10.5.0</string>
+		<key>name</key>
+		<string>Jumpcloud</string>
+		<key>receipts</key>
+		<array>
+		</array>
+		<key>unattended_install</key>
+		<false/>
+		<key>unattended_uninstall</key>
+		<false/>
+		<key>version</key>
+		<string>0.0</string>
+	</dict>
+	<dict>
+		<key>autoremove</key>
+		<false/>
+		<key>catalogs</key>
+		<array>
 			<string>production</string>
 		</array>
 		<key>category</key>
