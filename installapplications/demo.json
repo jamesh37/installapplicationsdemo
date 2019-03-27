@@ -2,13 +2,6 @@
   "preflight" : [],
   "setupassistant": [
     {
-      "file": "/Library/Application Support/installapplications/Jumpcloud.pkg",
-      "hash": "97a3f3e4060590fa485bc3559213831f214f4a3891188912e48698a702e4aeba",
-      "name": "JumpCloud Installer",
-      "type": "package",
-      "url": "https://raw.githubusercontent.com/jamesh37/installapplicationsdemo/master/installapplications/pkgs/Jumpcloud.pkg"
-    },
-    {
       "file": "/Library/Application Support/installapplications/munkitools_launchd-3.0.3265.pkg",
       "hash": "66441eaba5aa717fd81d1a84ddfb309da90cff6bc5904dc0e94c1f6e216c2a89",
       "name": "Munki LaunchD",
@@ -73,6 +66,13 @@
       "name": "Dockutil User",
       "type": "userscript",
       "url": "https://raw.githubusercontent.com/jamesh37/installapplicationsdemo/master/installapplications/scripts/user/dockutil.py"
+    },
+    {
+      "file": "/Library/Application Support/installapplications/userscripts/install_agent_and_serviceaccount.sh",
+      "hash": "523bc84141a741d0d373b40c4a47d5a4607c08b37621d99ef95ca8633dcf27de",
+      "name": "JC Install",
+      "type": "userscript",
+      "url": "https://raw.githubusercontent.com/jamesh37/installapplicationsdemo/master/installapplications/scripts/user/install_agent_and_serviceaccount.sh"
     },
     {
       "file": "/Library/Application Support/installapplications/depnotify_end.py",
