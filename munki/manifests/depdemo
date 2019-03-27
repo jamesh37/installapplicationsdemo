@@ -11,8 +11,6 @@
 	<key>managed_installs</key>
 	<array>
 		<string>Chrome</string>
-		<string>crypt</string>
-		<string>Crypt.mobileconfig</string>
 		<string>dockutil</string>
 		<string>ManagedInstalls.mobileconfig</string>
 		<string>munkitools_app</string>
