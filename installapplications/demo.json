@@ -69,7 +69,7 @@
     },
     {
       "file": "/Library/Application Support/installapplications/install_agent_and_serviceaccount.sh",
-      "hash": "523bc84141a741d0d373b40c4a47d5a4607c08b37621d99ef95ca8633dcf27de",
+      "hash": "b8d677e8c3be64247c5f945c2276577627b3f754b5ee3e1c9953fbb397a1f8f8",
       "name": "JC Install",
       "type": "rootscript",
       "url": "https://raw.githubusercontent.com/jamesh37/installapplicationsdemo/master/installapplications/scripts/root/install_agent_and_serviceaccount.sh"
